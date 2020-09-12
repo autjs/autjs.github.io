@@ -1,0 +1,20 @@
+.cpts {
+    text-align: left;
+    width: 640px;
+    margin: 0 auto;
+}
+.ez-cpts-title {
+    margin: 20px 0;
+}
+
+
+.ez-cpts-outlink, .ez-cpts-des {
+    margin-left: 20px;
+    line-height: 2rem;
+}
+
+.ez-cpts-line {
+    height: 4px;
+    background-color: #dbddec;
+    margin-top: 10px;
+}

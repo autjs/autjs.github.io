@@ -1,0 +1,113 @@
+
+.ez-header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+
+.ez-content {
+    margin-top: 100px;
+}
+
+.page {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.ez-code {
+    width: 640px;
+    font-size: 1rem;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.ez-temp-header {
+    margin: 200px 0 60px 0;
+}
+
+.ez-temp-header-sub-title {
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.ez-tool-p {
+    margin: 20px;
+}
+
+.ez-help p {
+    margin-bottom: 10px;
+}
+
+.ez-docs {
+    min-width: 720px;
+    width: 80%;
+    text-align: left;
+}
+.ez-docs-tree {
+    width: 160px;
+    display: inline-block;
+}
+.ez-docs-mark-content {
+    width: calc(100% - 160px);
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 60px;
+    box-sizing: border-box;
+}
+.ez-docs-mark-content h4 {
+    margin: 10px 0;
+}
+.ez-docs-mark-content p {
+    line-height: 1.8rem;
+    margin-left: 10px;
+}
+
+
+
+.logo {
+    font-size: 24px;
+    color: cadetblue;
+}
+
+.header-line {
+    height: 6px;
+    background-color: #5e03fd;
+}
+
+.header-content {
+    line-height: 60px;
+    background-color: #2fd4dc;
+    padding: 0 100px;
+}
+
+.main-menu, .main-menu-item {
+    display: inline;
+}
+
+.main-menu {
+    margin-left: 20%;
+}
+
+.main-menu-item {
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+
+
+/* home css */
+.home-header {
+    margin: 30px;
+}
+
+.home-header-title {
+    font-size: 3rem;
+}
+
+.home-header-sub-title {
+    font-size: 2rem;
+}
+
+
